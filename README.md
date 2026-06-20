@@ -1,1 +1,1 @@
-here is the link: https://lucanicohe.github.io/aliensandstuff/
+here is the link: https://lucanicohe.github.io/aliensandstuff/index.html
