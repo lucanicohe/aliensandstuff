@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-0516assgod-0.1.0";
 const contentToCache = [
-    "Build/ufo2.loader.js",
-    "Build/ufo2.framework.js",
-    "Build/ufo2.data",
-    "Build/ufo2.wasm",
+    "Build/alienfun.loader.js",
+    "Build/alienfun.framework.js",
+    "Build/alienfun.data",
+    "Build/alienfun.wasm",
     "TemplateData/style.css"
 
 ];
